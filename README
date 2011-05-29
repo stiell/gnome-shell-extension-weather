@@ -17,6 +17,10 @@ From the command line
 
 that's it!
 
+### Dependence
+
+gnome-common
+gnome-desktop3-devel (for compilation)
 ### Configuration
 
 Gnome extension weather use gsettings to save your configuration  
@@ -50,6 +54,7 @@ Ecyrbe <ecyrbe+spam@gmail.com>,
 Timur Kristóf <venemo@msn.com>,
 Elad Alfassa <elad@fedoraproject.org>,
 Simon Legner <Simon.Legner@gmail.com>
+Simon Claessens <gagalago@gmail.com>
 
 This file is part of gnome-shell-extension-weather.
 
